@@ -218,6 +218,11 @@ img{
     .main-nav {
         font-size: 2rem;
     }
+    /* ヘッダーカバー画像 */
+    .sub-cover {
+        height: 400px;
+        margin-bottom: 6rem;
+    }
     /* HOME */
     .cover-home {
         background-image: url(../images/cover-home-l.webp);
