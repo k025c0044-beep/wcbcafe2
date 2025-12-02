@@ -78,6 +78,14 @@ img{
 .post-date {
     font-size: .875rem;
 }
+.post-thumbnsil {
+    border-radius: 16px;
+    margin-bottom: 1.5rem;
+}
+.post p {
+    margin-bottom: 1.5rem;
+    line-height: 2;
+}
 /* レイアウト */
 .wrapper {
     max-width: 1120px;
